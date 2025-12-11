@@ -16,105 +16,146 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Hi+There!+%F0%9F%91%8B;I+am+an+AI+%26+DS+Undergrad;Machine+Learning+Enthusiast;Competitive+Programmer" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00c6ff,0072ff&height=220&section=header&text=Building%20the%20Future%20with%20AI&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" alt="header_animation"/>
   
-  <h3>🤖 B.Tech Artificial Intelligence & Data Science | Pre-Final Year Student</h3>
-  <p><i>Building intelligent solutions & solving algorithmic challenges</i></p>
+  <h3 align="center">👋 Hi there! I'm a Pre-Final Year AI & DS Undergrad</h3>
+  
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=339AF0&center=true&vCenter=true&random=false&width=600&lines=🤖+Machine+Learning+Enthusiast;🌐+Full-Stack+Developer+(Web);💡+IoT+%26+Computer+Vision+Innovator;🏆+Competitive+Programmer" alt="Typing SVG" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=[YOUR_GITHUB_USERNAME]&label=Profile%20Views&color=0e75b6&style=flat-square" alt="profile views" />
+</div>
+
+<br/>
+
+<div align="center">
+  <table>
+    <tr>
+      <td valign="top" width="50%">
+        <h3>🎓 Academic Profile</h3>
+        <ul>
+          <li>🏛️ <b>Institution:</b> Kalaignar Karunanidhi Institute of Technology</li>
+          <li>💻 <b>Domain:</b> B.Tech Artificial Intelligence & Data Science</li>
+          <li>🧠 <b>Current CGPA:</b> 7.73 / 10.0</li>
+          <li>📚 <b>Focus Areas:</b> Deep Learning, Computer Vision, IoT</li>
+        </ul>
+      </td>
+      <td valign="top" width="50%">
+        <h3>🚀 Current Status</h3>
+        <ul>
+          <li>👨‍💻 Actively solving problems on <b>LeetCode</b> & <b>CodeChef</b>.</li>
+          <li>🌱 Building <b>end-to-end ML pipelines</b> and deploying models.</li>
+          <li>🤝 Open to <b>internship opportunities</b> in AI/ML & SDE roles.</li>
+          <li>💬 Ask me about <b>Python, OpenCV, or Neural Networks</b>.</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
 
-### 👨‍💻 About Me
-
-- 🎓 I'm currently a Pre-Final year student at **Kalaignar Karunanidhi Institute of Technology**.
-- 🔭 I’m currently working on **Machine Learning & IoT Projects**.
-- 🧠 **Current CGPA:** 7.73/10.0
-- 💡 I love solving problems on **LeetCode** & **CodeChef**.
-- 👯 I’m looking to collaborate on **Open Source AI Projects**.
-
----
-
-### 🛠️ Tech Stack
-
+<h2 align="center">⚡ Professional Experience</h2>
 <div align="center">
-  
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  
-  <br />
-
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  
-  <br />
-  
-  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-
+  <a href="https://www.linkedin.com/in/[YOUR_LINKEDIN_HANDLE]">
+    <img src="https://img.shields.io/badge/Manfree%20Technology-Web%20Dev%20Intern%20(Jun%20'25)-blue?style=for-the-badge&logo=react&logoColor=white&labelColor=101010" height="50" />
+  </a>
+  <br/>
+  <i>Developed responsive front-end interfaces & mastered web workflows.</i>
+  <br/><br/>
+  <a href="https://www.linkedin.com/in/[YOUR_LINKEDIN_HANDLE]">
+    <img src="https://img.shields.io/badge/Manfree%20Technology-ML%20Trainee%20(Dec%20'24)-orange?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=101010" height="50" />
+  </a>
+  <br/>
+  <i>Built baseline ML models & handled data preprocessing pipelines.</i>
 </div>
 
 ---
 
-### 📊 Competitive Programming Stats
-
-| Platform | Rank/Rating | Problems Solved |
-| :--- | :--- | :--- |
-| **LeetCode** | Top 46.55% (Global) | **100+** |
-| **CodeChef** | Max Rating: 1043 | **100+** |
-
----
-
-### 🚀 Projects
-
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **📸 Face Recognition System** | Built a detection model using preprocessing pipelines & feature extraction to improve accuracy. | `Python` `OpenCV` `ML` |
-| **🗺️ Fear-Free Navigation** | Safety-focused navigation identifying low-risk routes using classification logic. | `ML` `Python` `Classification` |
-| **🆘 Smart SOS App** | Offline IoT emergency communication system using Bluetooth for distress messaging. | `IoT` `Bluetooth` `Software` |
-| **🌄 Smart HDR Imaging** | HDR image enhancement pipeline using neural networks with multi-scale attention. | `Deep Learning` `Neural Networks` |
-
----
-
-### 💼 Experience
-
-- **Web Application Development Intern** @ *Manfree Technology* (June 2025)
-  - Developed responsive web pages using HTML, CSS, and JS.
-  - Mastered frontend workflows and UI components.
-
-- **Machine Learning Inplant Trainee** @ *Manfree Technology* (Dec 2024)
-  - Worked on Data Preprocessing and Supervised Learning concepts.
-  - Built baseline models using Scikit-Learn.
-
----
-
-### 🏆 Certifications
-
-- **NPTEL:** Soft Skill Development | Design Thinking
-- **Coursera:** Data Visualization with Python | Python Classes and Inheritance
-
----
-
-### 📈 GitHub Stats
-
+<h2 align="center">🛠️ Tech Stack & Tools</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB_USERNAME]&show_icons=true&theme=tokyonight" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_GITHUB_USERNAME]&layout=compact&theme=tokyonight" height="150" alt="languages graph" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[YOUR_GITHUB_USERNAME]&theme=tokyonight" alt="streak stats" />
+  <img src="https://skillicons.dev/icons?i=python,c,java,js,html,css,mysql,git,github,vscode,opencv,sklearn,tensorflow&theme=dark&perline=7" alt="My Skills" />
 </div>
 
 ---
 
+<h2 align="center">💻 Featured Projects</h2>
+<table border="0" align="center">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">📸 Face Recognition System</h3>
+      <p>Based on <b>OpenCV & ML</b>. Implemented preprocessing pipelines and feature extraction to significantly improve recognition accuracy in varied conditions.</p>
+      <div align="center">
+        <img src="https://img.shields.io/badge/CV-OpenCV-blue" />
+        <img src="https://img.shields.io/badge/ML-Python-yellow" />
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🗺️ Fear-Free Navigation</h3>
+      <p>A safety-focused concept classifying routes based on risk. Uses <b>ML classification logic</b> to assist users in identifying low-risk paths.</p>
+      <div align="center">
+        <img src="https://img.shields.io/badge/AI-Classification-orange" />
+        <img src="https://img.shields.io/badge/Data-Analysis-green" />
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🆘 Smart SOS Application</h3>
+      <p>An <b>IoT-based</b> emergency system using <b>Bluetooth</b> for offline safety alerts and quick distress messaging without internet.</p>
+      <div align="center">
+        <img src="https://img.shields.io/badge/IoT-Bluetooth-blue" />
+        <img src="https://img.shields.io/badge/App-Android-green" />
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🌄 Smart HDR Imaging</h3>
+      <p>Implemented an image enhancement pipeline using a <b>Neural Network</b> architecture with multi-scale attention mechanisms.</p>
+      <div align="center">
+        <img src="https://img.shields.io/badge/DL-Neural%20Nets-red" />
+        <img src="https://img.shields.io/badge/Research-Group%20Project-purple" />
+      </div>
+    </td>
+  </tr>
+</table>
+
+---
+
+<h2 align="center">📈 Dynamic Stats & Activity</h2>
+
 <div align="center">
+  <img src="https://img.shields.io/badge/LeetCode-Solved:%20100+-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  <img src="https://img.shields.io/badge/LeetCode-Top%2046.5%25%20Global-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  <br/>
+  <img src="https://img.shields.io/badge/CodeChef-Solved:%20100+-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+  <img src="https://img.shields.io/badge/CodeChef-Max%20Rating:%201043-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+</div>
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB_USERNAME]&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" alt="stats graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[YOUR_GITHUB_USERNAME]&theme=tokyonight&hide_border=true" height="160" alt="streak graph" />
+</div>
+
+<div align="center">
+  <br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=[YOUR_GITHUB_USERNAME]&theme=tokyonight&hide_border=true" width="100%" alt="activity graph" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0072ff,00c6ff&height=100&section=footer"/>
+  <br/>
+  <h3>📫 Let's Connect!</h3>
   <a href="https://linkedin.com/in/[YOUR_LINKEDIN_HANDLE]">
-    <img src="https://img.shields.io/badge/Connect-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:[YOUR_EMAIL_ID]">
-    <img src="https://img.shields.io/badge/Email-Me-red?style=for-the-badge&logo=gmail" alt="Email" />
+  <a href="mailto:[YOUR_EMAIL]">
+    <img src="https://img.shields.io/badge/Email-Write%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
+  
