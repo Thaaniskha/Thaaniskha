@@ -135,27 +135,3 @@ Here are some ideas to get you started:
 </div>
 <br/>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB_USERNAME]&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" alt="stats graph" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[YOUR_GITHUB_USERNAME]&theme=tokyonight&hide_border=true" height="160" alt="streak graph" />
-</div>
-
-<div align="center">
-  <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=[YOUR_GITHUB_USERNAME]&theme=tokyonight&hide_border=true" width="100%" alt="activity graph" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0072ff,00c6ff&height=100&section=footer"/>
-  <br/>
-  <h3>📫 Let's Connect!</h3>
-  <a href="https://linkedin.com/in/[YOUR_LINKEDIN_HANDLE]">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:[YOUR_EMAIL]">
-    <img src="https://img.shields.io/badge/Email-Write%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</div>
-  
