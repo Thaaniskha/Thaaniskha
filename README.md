@@ -95,9 +95,11 @@ Here are some ideas to get you started:
 - **NPTEL:** Soft Skill Development | Design Thinking
 - **Coursera:** Data Visualization with Python | Python Classes and Inheritance
 
---
+---
 
-<!-- <div align="center">
+### 📈 GitHub Stats
+
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB_USERNAME]&show_icons=true&theme=tokyonight" height="150" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_GITHUB_USERNAME]&layout=compact&theme=tokyonight" height="150" alt="languages graph" />
 </div>
@@ -115,4 +117,4 @@ Here are some ideas to get you started:
   <a href="mailto:[YOUR_EMAIL_ID]">
     <img src="https://img.shields.io/badge/Email-Me-red?style=for-the-badge&logo=gmail" alt="Email" />
   </a>
-</div> -->
+</div>
