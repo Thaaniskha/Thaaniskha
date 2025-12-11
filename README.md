@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **Thaaniskha/Thaaniskha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -95,9 +95,7 @@ Here are some ideas to get you started:
 - **NPTEL:** Soft Skill Development | Design Thinking
 - **Coursera:** Data Visualization with Python | Python Classes and Inheritance
 
----
-
-### 📈 GitHub Stats
+--
 
 <!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB_USERNAME]&show_icons=true&theme=tokyonight" height="150" alt="stats graph" />
