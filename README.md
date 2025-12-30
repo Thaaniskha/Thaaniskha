@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00c6ff,0072ff&height=220&section=header&text=Building%20the%20Future%20with%20AI&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" alt="header_animation"/>
   
-  <h3 align="center">👋 Hi there! I'm a Pre-Final Year AI & DS Undergrad</h3>
+  <h3 align="center">👋 Hi! I'm a Pre-Final Year AI & DS Student</h3>
   
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=339AF0&center=true&vCenter=true&random=false&width=600&lines=🤖+Machine+Learning+Enthusiast;🌐+Full-Stack+Developer+(Web);💡+IoT+%26+Computer+Vision+Innovator;🏆+Competitive+Programmer" alt="Typing SVG" />
