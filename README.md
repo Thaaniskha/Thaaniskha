@@ -25,9 +25,7 @@ Here are some ideas to get you started:
   </a>
 </div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=[YOUR_GITHUB_USERNAME]&label=Profile%20Views&color=0e75b6&style=flat-square" alt="profile views" />
-</div>
+
 
 <br/>
 
